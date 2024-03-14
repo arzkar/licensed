@@ -1,0 +1,12 @@
+# Comment syntax configuration file
+# Each line should be in the format: <file_extension>:<comment_syntax>
+
+.go://
+.c://
+.cpp://
+.java://
+.js://
+.ts://
+.cs://
+.py:#
+.rb:#

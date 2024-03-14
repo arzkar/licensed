@@ -1,0 +1,52 @@
+# Common ignore patterns for all languages
+
+# Go
+go.mod
+go.sum
+
+# Node.js
+node_modules/
+
+# csharp
+*.bin
+*.dll
+*.lib
+*.exe
+
+# Java
+*.class
+*.jar
+
+# Python
+*.pyc
+.python-version
+__pycache__/
+
+# Ruby
+*.gem
+
+# PHP
+vendor/
+composer.lock
+
+# Swift
+*.ipa
+*.dSYM/
+
+# C/C++
+*.o
+*.a
+*.so
+*.dylib
+
+# Rust
+target/
+Cargo.lock
+
+# TypeScript
+*.js
+*.js.map
+
+# General
+*.txt
+.licensed-ignore
